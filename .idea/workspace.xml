@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5679c429-38f8-4f04-aa15-36b5c3b06285" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/loveyue-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/jscex-async-powerpack.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/jscex-async.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/jscex-builderbase.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/jscex-jit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/jscex-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/jscex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/Love_files/love.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/ga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/gallery_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/heart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/makesnake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/roundabout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/roundabout_shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/snowstorm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七个/1/jscss/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/14915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali30_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali30_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali50_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali50_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali76.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/iali9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/love.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/share.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/幻灯片9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/当我唱起这首歌.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三个/1/jscss/爱情日历 - 定稿版.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/css/default_dev.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/digital-7_mono.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/js/functions_dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/js/garden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/js/garden_dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二个/1/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五个/1/icon/20140523223608.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五个/1/icon/bg_105_wrap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五个/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八个/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八个/1/jscss/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八个/1/jscss/garden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八个/1/jscss/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/jscss/Clockopia.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/jscss/Monda-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/jscss/Monda-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/jscss/Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/jscss/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/jscss/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六个/1/jscss/text1.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/garden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四个/1/jscss/tao.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ojxnp3yCQCRUYnbjCDzubtFpze" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5679c429-38f8-4f04-aa15-36b5c3b06285" name="Default Changelist" comment="" />
+      <created>1613813970683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613813970683</updated>
+      <workItem from="1613813972147" duration="2207000" />
+      <workItem from="1614060616162" duration="271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1614060905344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614060905344" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1614060849602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614060849602" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614060909374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614060909374" />
+    <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1614060739504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="155" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1614060739504" />
+  </component>
+</project>
